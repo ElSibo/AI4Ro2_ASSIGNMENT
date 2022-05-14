@@ -18,4 +18,47 @@ then you can find the solution for each problem by using a single line command, 
 ```
 
 
-![Screeshot](https://github.com/ElSibo/AI4Ro2_ASSIGNMENT/blob/main/AI4RO_ASS_OPTIONAL/AI4Ro2_Assignment_1_OPTION_report.pdf)
+<p align="center">
+ 
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.33.54.png" width="850" title="hover text">
+</p>
+
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.34.21.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.34.30.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.34.46.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.34.59.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.35.11.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.35.28.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.35.58.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.36.12.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.36.26.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.36.35.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.36.42.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.37.21.png" width="850" title="hover text">
+</p>
+<p align="center">
+  <img src="AI4RO_ASS_OPTIONAL/image/Schermata 2022-05-14 alle 23.37.37.png" width="850" title="hover text">
+</p>
