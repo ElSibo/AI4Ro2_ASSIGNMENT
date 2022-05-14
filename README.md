@@ -8,15 +8,23 @@ In the considered warehouse, there are two robots that move crates around. The c
 </p>
 
 ## Usage
-For numerc and temporal planning we can use LPG planner. After cloning this repository make sure the planner file is executable:
+For numerc and temporal planning we can use LPG-td planner. After cloning this repository make sure the planner file is executable:
 ```bashscript
 chmod +x lpg-td
 ```
-then you can find the solution for each problem by using a single line command, for example to solve the problem 1 you should run this:
+For numerc and temporal planning we can use LPG planner. After cloning this repository make sure the planner file is executable:
+```bashscript
+chmod +x lpg
+```
+(lpg-td)then you can find the solution for each problem by using a single line command, for example to solve the problem 1 you should run this:
 ```bashscript
 ./lpg-td -o warehouse.pddl -f warehouse-prob1.pddl -n 1
 ```
-
+(lpg)then you can find the solution for each problem by using a single line command, for example to solve the problem 1 you should run this:
+```bashscript
+./lpg -o warehouse.pddl -f warehouse-prob1.pddl -n 1
+```
+the last number is the number of better solution that you what to found.(advise it to set it to 1-2-3).
 
 <p align="center">
  
