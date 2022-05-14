@@ -18,7 +18,4 @@ then you can find the solution for each problem by using a single line command, 
 ```
 
 
-<p align="center">
-  <img src="https://github.com/ElSibo/AI4Ro2_ASSIGNMENT/blob/main/AI4RO_ASS_OPTIONAL/AI4Ro2_Assignment_1_OPTION_report.png" width="350" title="hover text">
-</p>
-![GitHub Logo]("https://github.com/ElSibo/AI4Ro2_ASSIGNMENT/blob/main/AI4RO_ASS_OPTIONAL/AI4Ro2_Assignment_1_OPTION_report.pdf" "GitHub")
+![Screeshot](https://github.com/ElSibo/AI4Ro2_ASSIGNMENT/blob/main/AI4RO_ASS_OPTIONAL/AI4Ro2_Assignment_1_OPTION_report.pdf)
